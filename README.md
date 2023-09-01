@@ -1,2 +1,0 @@
-# kodego
- My Kodego Projects
